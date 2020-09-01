@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+ <title>Profile</title>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+ </head>
+ <body>
+  <h1 class="title">Tateno Sou</h1>
+  <p>portfolio</p>
+ </body>
+ </html>
